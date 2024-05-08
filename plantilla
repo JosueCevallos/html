@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Título de tu Página</title>
+    <style>
+        /* Estilos CSS aquí */
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Esta es la priimera actividad</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Hola!</a></li>
+                <li><a href="#">Somos</a></li>
+                <li><a href="#">Los</a></li>
+                <li><a href="#">Richis</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div>
+            <h2>Primer Bloque - Lista</h2>
+            <ul>
+                <li>Elemento 1</li>
+                <li>Elemento 2</li>
+                <li>Elemento 3</li>
+            </ul>
+         </div>
+
+        <div>
+            <h2>Segundo Bloque - Imagen</h2>
+            <img src="Mars_Rover.jpg" alt="Descripción de la imagen">
+        </div>
+
+        <div>
+            <h2>Tercer Bloque - Párrafo</h2>
+            <p>Este es un párrafo de ejemplo. Puedes agregar aquí el texto que desees para describir el contenido de esta sección.</p>
+        </div>
+    </main>
+   
+    <p>La exploración espacial es uno de los objetivos más ambiciosos. Viendo la importancia que está tomando hemos propuesto desarrollar un Rover al que llamaremos Richi que se embarcará en la misión: explorar Marte.
+      Para el montaje hemos usado dos placas que nos sirven de base para colocar los componentes y los motores. A continuación, mis compañeros explicarán con más detalle su montaje.
+      </p>
+
+    <footer>
+        <p>&copy; 2024 Richi Movil</p>
+    </footer>
+</body>
+</html>
